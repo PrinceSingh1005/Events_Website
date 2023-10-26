@@ -4,7 +4,6 @@ import './App.css'
 //import EventDetails from './component/EventDetails';
 //  import NavMenu from './component/NavMenu';
 import HomePage from './component/home';
-import img1 from './images/hackathon.png';
 import Experience from './component/Experience';
 import Information from './component/Information';
 import EventExperience from './component/EventExperience';
